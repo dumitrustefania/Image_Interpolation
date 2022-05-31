@@ -36,7 +36,6 @@
 - Interpolarea Lanczos este o metoda bazata pe potrivirea momentelor multipunct si este considerata o metoda puternica pentru problemele de reducere a ordinii modelului, intrucat este legata de subspatiile rationale Krylov si se bazeaza pe selectia unor puncte de interpolare
 
 - Am implementat 3 algoritmi de tip Lanczos, urmarind indicatiile si pseudocodul din enuntul temei:
-
-# Algoritmul Standard Bloc Nesimetric
-# Algoritmul Rational Bloc
-# Algoritmul Rational de ordin Adaptiv
+    - Algoritmul Standard Bloc Nesimetric
+    - Algoritmul Rational Bloc
+    - Algoritmul Rational de ordin Adaptiv
